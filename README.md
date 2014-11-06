@@ -23,3 +23,4 @@ Die Vorgehensweise ist also:
 + commit (oder *Strg + Alt + m)
 + Kommentar einfügen und commit ausführen
 + Push ausführen
+**Beachten: es muss ein Haken an der .md-Datei gesetzt sein
