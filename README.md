@@ -21,5 +21,5 @@ Die Vorgehensweise ist also:
 * Version speichern
 * im GH-Menü (oben links - *Version control*)
 + commit (oder *Strg + Alt + m)
-++ Kommentar einfügen und commit ausführen
-++ Push ausführen
++ Kommentar einfügen und commit ausführen
++ Push ausführen
