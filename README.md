@@ -55,4 +55,4 @@ was passiert wenn man *italics* und **bold** kombinieren möchte?
 * ** Test ** *  
 ** *Test* **  
 oder ***TEST***  
-Drei Sternchen zusammen ergeben die Kombination. Leerzeichen führen zu Listendarstellung.
+Drei Sternchen zusammen ergeben die Kombination. Leerzeichen führen zu Listendarstellung oder werden als "italic" interpretiert, wobei in beiden Fällen auch Sternchen dargestellt werden.
