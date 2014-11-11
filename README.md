@@ -19,8 +19,9 @@ Ich teste nun noch einmal den Vorgang mit commit.
 Die Vorgehensweise ist also:
 * Änderungen vornehmen
 * Version speichern
-* im GH-Menü (oben links - *Version control*)
-+ commit (oder *Strg + Alt + m*)
-+ Kommentar einfügen und commit ausführen
-**Beachten: es muss ein Haken an der .md-Datei gesetzt sein**
-+ Push ausführen
+* im GH-Menü (oben links) - *Version control*
+  + commit (oder *Strg + Alt + m*)
+  + Kommentar einfügen und commit ausführen
+  + **Beachten: es muss ein Haken an der .md-Datei gesetzt sein**
+  + Push ausführen
+* Browser-Refresh des Github-Fensters, um die Änderung darzustellen
