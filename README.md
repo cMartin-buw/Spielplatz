@@ -53,3 +53,4 @@ Jetzt noch ein Test der Formatierungs-Funktionen:
 
 was passiert wenn man *italics* und **bold** kombinieren möchte?
 * ** Test ** *
+oder ***TEST***
