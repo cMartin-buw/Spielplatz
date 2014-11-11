@@ -22,5 +22,5 @@ Die Vorgehensweise ist also:
 * im GH-Menü (oben links - *Version control*)
 + commit (oder *Strg + Alt + m*)
 + Kommentar einfügen und commit ausführen
-+ Push ausführen
 **Beachten: es muss ein Haken an der .md-Datei gesetzt sein**
++ Push ausführen
