@@ -34,13 +34,17 @@ Die Anführungszeichen verursachen keinen Fehler und werden in github dargestell
 Also werde ich die "Amend"-Option benutzen.
 
 Hierbei tritt der Fehler wieder auf:
-*To git@github.com:cMartin-buw/Spielplatz.git
- ! [rejected]        master -> master (non-fast-forward)
-error: Fehler beim Versenden einiger Referenzen nach 'git@github.com:cMartin-buw/Spielplatz.git'
-Hinweis: Aktualisierungen wurden zurückgewiesen, weil die Spitze Ihres aktuellen
-Hinweis: Branches hinter seinem externen Gegenstück zurückgefallen ist. Führen Sie
-Hinweis: die externen Änderungen zusammen (z.B. 'git pull ...') bevor Sie "push"
-Hinweis: erneut ausführen.
-Hinweis: Siehe auch die Sektion 'Note about fast-forwards' in 'git push --help'
-Hinweis: für weitere Details.*
+
+*To git@github.com:cMartin-buw/Spielplatz.git  
+ ! [rejected]        master -> master (non-fast-forward)  
+error: Fehler beim Versenden einiger Referenzen nach 'git@github.com:cMartin-buw/Spielplatz.git'  
+Hinweis: Aktualisierungen wurden zurückgewiesen, weil die Spitze Ihres aktuellen  
+Hinweis: Branches hinter seinem externen Gegenstück zurückgefallen ist. Führen Sie  
+Hinweis: die externen Änderungen zusammen (z.B. 'git pull ...') bevor Sie "push"  
+Hinweis: erneut ausführen.  
+Hinweis: Siehe auch die Sektion 'Note about fast-forwards' in 'git push --help'  
+Hinweis: für weitere Details.*  
+
 Offenbar erzeugt "Amend" einen Versionskonflikt.
+
+Dieser läßt sich beheben, indem man mit *"Pull"* beide Versionen in R merged. Dann editiert man die Zeilen-Dubletten und hinzugefügten Formatierungen, bevor man die Version speichert und wie gewohnt hochläd.
