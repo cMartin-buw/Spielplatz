@@ -48,3 +48,8 @@ Hinweis: für weitere Details.*
 Offenbar erzeugt "Amend" einen Versionskonflikt.
 
 Dieser läßt sich beheben, indem man mit *"Pull"* beide Versionen in R merged. Dann editiert man die Zeilen-Dubletten und hinzugefügten Formatierungen, bevor man die Version speichert und wie gewohnt hochläd.
+
+Jetzt noch ein Test der Formatierungs-Funktionen:
+
+was passiert wenn man *italics* und **bold** kombinieren möchte?
+* ** Test ** *
