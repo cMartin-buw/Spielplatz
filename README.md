@@ -24,6 +24,8 @@ Die Vorgehensweise ist also:
   + Kommentar einfügen und commit ausführen
   + **Beachten: es muss ein Haken an der .md-Datei gesetzt sein**
   + Push ausführen
- * Browser-Refresh des Github-Fensters, um die Änderung darzustellen
+* Browser-Refresh des Github-Fensters, um die Änderung darzustellen
  
- beim Einfügen von Anführungszeichen und dem Benutzten der *Amend previous commit* - Checkbox traten Fehler auf. Ich teste nun, welcher der beiden Faktoren diesen verursacht hat.
+beim Einfügen von Anführungszeichen und dem Benutzten der *Amend previous commit* - Checkbox traten Fehler auf. Ich teste nun, welcher der beiden Faktoren diesen verursacht hat.
+
+Zunächst verwende ich "Anführungszeichen" ohne Amend-Checkbox.
