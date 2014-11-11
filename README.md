@@ -20,7 +20,7 @@ Die Vorgehensweise ist also:
 * Änderungen vornehmen
 * Version speichern
 * im GH-Menü (oben links - *Version control*)
-+ commit (oder *Strg + Alt + m)
++ commit (oder *Strg + Alt + m*)
 + Kommentar einfügen und commit ausführen
 + Push ausführen
-**Beachten: es muss ein Haken an der .md-Datei gesetzt sein
+**Beachten: es muss ein Haken an der .md-Datei gesetzt sein**
