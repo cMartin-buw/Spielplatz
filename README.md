@@ -52,5 +52,7 @@ Dieser läßt sich beheben, indem man mit *"Pull"* beide Versionen in R merged. 
 Jetzt noch ein Test der Formatierungs-Funktionen:
 
 was passiert wenn man *italics* und **bold** kombinieren möchte?
-* ** Test ** *
-oder ***TEST***
+* ** Test ** *  
+** *Test* **  
+oder ***TEST***  
+Drei Sternchen zusammen ergeben die Kombination. Leerzeichen führen zu Listendarstellung.
